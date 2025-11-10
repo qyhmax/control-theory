@@ -27,7 +27,7 @@
   - [高阶线性](./1_basic_math/4_ODE/3高阶线性.md)
 ## 2. 控制理论初步
 - [2.1 控制系统的基本概念](./2_control/README.md)
-  - [SISO](./2_control/1_SISO.md)
+  - [控制理论基础](./2_control/1_SISO/1控制理论基础.md)
   - [MIMO](./2_control/2_MIMO.md)
   - [非线性](./2_control/3_非线性.md)
   - [离散](./2_control/4_离散.md)
