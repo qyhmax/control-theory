@@ -21,7 +21,7 @@
   - [随机变量与分布](./1_basic_math/3_probability/random_variable_distribution.md)
   - [数学期望与方差](./1_basic_math/3_probability/expectation_variance.md)
   - [常见概率分布](./1_basic_math/3_probability/common_distributions.md)
-- [1.4ODE 概率初步](./1_basic_math/4_ODE/README.md)
+- [1.4ODE](./1_basic_math/4_ODE/README.md)
 - - [初等积分法](./1_basic_math/4_ODE/1初等积分法.md)
   - [线性微分方程](./1_basic_math/4_ODE/2线性微分方程.md)
   - [高阶线性](./1_basic_math/4_ODE/3高阶线性.md)
